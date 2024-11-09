@@ -1,5 +1,5 @@
 # Write README.md file
-readme_content = """
+
 # Disease Detection Chatbot
 
 This repository contains two main components of a disease detection chatbot. The first component is a disease detection model, and the second is an NLP model responsible for processing user input to pass parameters effectively to the detection model.
